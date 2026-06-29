@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Paras 👋 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=6B826A&width=435&lines=Software+Engineer;Data+Science+Specialist;Co-Founder+@+Garnish" alt="Typing SVG" />
+</p>
 
-<!--
-**Parasdhi/Parasdhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+🎓 Education: B.Tech Student specializing in Computer Science and Engineering (Data Science)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Focus: Co-Founder at Garnish — building premium, high-converting digital products for businesses.
+
+💡 Interests: Advanced Data Structures & Algorithms, Object-Oriented Programming, and building custom automated operations workflows.
+
+⚙️ Hardware & IoT: Designing custom networking setups, environmental monitoring nodes, and routing systems.
+
+⚡ Motto: Build. Automate. Scale.
+
+🛠️ Tech Stack & Tools
+Backend development, intelligent automation platforms, and engineering frameworks:
+```bash
+$ whoami --verbose 
